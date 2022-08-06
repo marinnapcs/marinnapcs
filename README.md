@@ -1,18 +1,16 @@
-#Olá eu sou a Marinna estudante de tecnologia :) 
+### *Olá eu sou a Marinna estudante de tecnologia* 💻👩‍🎓🖤🤍
 
 <div align="center">
   <a href="https://github.com/marinnapcs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinnapcs&count_private=true&include_all_commits=true&show_icons=true&theme= dracula &hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinnapcs&theme= dracula &hide_border=false&&layout=compact"/>
-    
-    
-<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinnapcs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  
+    <div>
 
-[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marinnaspc/)
-[![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/marinnaspc)
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/marinna-pereira-50a343199/)
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marinnaspc/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/marinnaspc)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/marinna-pereira-50a343199/)
 
-# *Tecnologias que eu estou aprendendo* 
+# *Tecnologias que eu estou aprendendo!* 
 
 <div>
  <img align="center" alt="marinnaspc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
