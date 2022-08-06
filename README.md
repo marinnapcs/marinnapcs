@@ -12,6 +12,8 @@
 [![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/marinnaspc)
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/marinna-pereira-50a343199/)
 
+# *Tecnologias que eu estou aprendendo* 
+
 <div>
  <img align="center" alt="marinnaspc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marinnaspc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
