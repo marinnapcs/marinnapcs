@@ -4,7 +4,7 @@
   <a href="https://github.com/marinnapcs">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinnapcs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
   
-    <div>
+   
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marinnaspc/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/marinnaspc)
