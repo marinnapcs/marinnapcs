@@ -1,4 +1,4 @@
-### *Olá eu sou a Marinna estudante de tecnologia* 💻👩‍🎓🖤🤍
+### *Olá! Eu sou a Marinna* 💻👩‍🎓🖤🤍
 
 <div align="center">
   <a href="https://github.com/marinnapcs">
