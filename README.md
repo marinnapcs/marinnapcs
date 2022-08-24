@@ -1,4 +1,4 @@
-### *Hey! I am Marinna* 💻👩‍🎓🖤🤍
+### *Hey! I am Marinna* 👩‍🎓🖤🤍😎
 
 <div align="center">
   <a href="https://github.com/marinnapcs">
